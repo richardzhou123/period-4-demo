@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * Main method for the battleship game
+ * Raul sucks at smash
  *
  * @author Richard Zhou
  * @version 11/20/17
